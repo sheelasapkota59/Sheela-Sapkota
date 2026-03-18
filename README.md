@@ -10,7 +10,7 @@ What I’m working on right now:
 
 My Thesis (Voice & NLP): Experimenting with Transformers and speech-processing models. My goal is to see how we can optimize these models for the Healthcare and Agriculture sectors.
 
-Computer Vision & ML: Worked on image similarity pipelines, experimenting with different datasets to reach 100% precision in matching. I’m comfortable using a range of tools—from basic Regression and K-Means to Deep Learning and Sentiment Analysis.
+Computer Vision & ML: Worked on image similarity pipelines, experimenting with different datasets to reach 100% precision in matching. I’m comfortable using a range of tools from basic Regression and K-Means to Deep Learning and Sentiment Analysis.
 
 At Mediisha, I handle the technical "behind the scenes" work. I've built Dockerfiles and Docker Compose environments using WSL, and I handle infrastructure planning (switch-to-rack). When things break, I use tools like curl to investigate vendor server issues and audit legacy Android SDKs to find the root of the problem.
 
