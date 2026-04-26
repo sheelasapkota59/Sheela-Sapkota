@@ -8,7 +8,7 @@ I’m a researcher and engineer who focuses on making AI work in the real world.
 
 What I’m working on right now:
 
-My Thesis (Voice & NLP): Experimenting with Transformers and speech-processing models. My goal is to see how we can optimize these models for the Healthcare and Agriculture sectors.
+My Thesis (CV , ML , RAG & NLP): Experimenting with Transformers and speech-processing models. My goal is to see how we can optimize these models for the Healthcare and Agriculture sectors.Woeking on it, not fixed yet
 
 Computer Vision & ML: Worked on image similarity pipelines, experimenting with different datasets to reach 100% precision in matching. I’m comfortable using a range of tools from basic Regression and K-Means to Deep Learning and Sentiment Analysis.
 
