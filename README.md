@@ -21,7 +21,7 @@ Kinship verification from facial images using margin-based deep face recognition
 
 **IT Business Analyst — Samyukta Technology** *(current)*
 - Gather client requirements through stakeholder meetings and reviews of existing workflows
-- Translate business needs into user stories, functional requirements and Jira tickets Management.
+- Translate business needs into user stories, functional requirements and Jira tickets Management and create Use Case Diagram , RBAC , Dependecies.
 - Coordinate with frontend, backend, mobile, QA and UI/UX teams, and answer dev/QA questions during implementation
 - Review test cases and verify delivered features against requirements
 - Write user manuals, functional documentation and reports
