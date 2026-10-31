@@ -39,5 +39,5 @@ Kinship verification from facial images using margin-based deep face recognition
 **Data & Web:** Python (Django) · Streamlit · SQL · Redis
 **Business Analysis:** Requirements gathering · User stories · Agile/Scrum.
 
-[LinkedIn]((https://www.linkedin.com/in/sheela-sapkota/
-)) · [Email]
+[LinkedIn](https://www.linkedin.com/in/sheela-sapkota/
+) · [Email]
