@@ -20,9 +20,12 @@ Kinship verification from facial images using margin-based deep face recognition
 ### Experience
 
 **IT Business Analyst — Samyukta Technology** *(current)*
-- [e.g. Gather and document requirements with stakeholders]
-- [e.g. Write user stories and work with the dev team on delivery]
-
+- Gather client requirements through stakeholder meetings and reviews of existing workflows
+- Translate business needs into user stories, functional requirements and Jira tickets Management.
+- Coordinate with frontend, backend, mobile, QA and UI/UX teams, and answer dev/QA questions during implementation
+- Review test cases and verify delivered features against requirements
+- Write user manuals, functional documentation and reports
+  
 **Scrum Master — Mediisha Solutions** *(previous)*
 - Ran sprints and coordinated between developers and stakeholders
 - Built Dockerfiles and Docker Compose dev environments on WSL
